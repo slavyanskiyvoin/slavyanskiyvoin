@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slavyanskiyvoin
-- 👀 I’m interested in  javascript and python, may be 3D modeling
+- 👀 I’m interested in  javascript and python, may be 3D modeling and desing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
